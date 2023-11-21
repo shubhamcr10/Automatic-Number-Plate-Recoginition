@@ -2,8 +2,7 @@
 This repo is for Automatic Number Plate Recoginition
 
 # Tensorflow Object Detection Walkthrough
-<p>This set of Notebooks provides a complete set of code to train and leverage your custom object detection model using the Tensorflow Object Detection API. This guide accompanies the Tensorflow Object Detection course on my <a href="https://www.youtube.com/c/shubham">YouTube channel</a>.</p>
-<img src="https://i.imgur.com/H3tUyKM.png">
+<p>This set of Notebooks provides a complete set of code to train and leverage your custom object detection model using the Tensorflow Object Detection API for Number Plate Detection and Recoginition.
 
 ## Steps
 <br />
